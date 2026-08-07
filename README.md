@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋 I'm Hibo Moha
 
-<!--
-**Hibo-moha/Hibo-moha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate passionate about Full Stack Development, Machine Learning, and building practical software solutions.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Git & GitHub Bootcamp
+  https://github.com/goobolabs/git-github-bootcamp
+
+- GitHub Practice
+  https://github.com/Hibo-moha/git-github-practice
+
+- Telecom Customer Churn Prediction
+  https://github.com/Hibo-moha/telecom-customer-churn
+
+## Skills
+
+- Python
+- React
+- FastAPI
+- PostgreSQL
+- Git & GitHub
+- Machine Learning
+
+## Contact
+
+GitHub:
+https://github.com/Hibo-moha
