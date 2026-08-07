@@ -8,10 +8,10 @@ Computer Science graduate passionate about Full Stack Development, Machine Learn
   https://github.com/goobolabs/git-github-bootcamp
 
 - GitHub Practice
-  https://github.com/Hibo-moha/git-github-practice
+  https://github.com/Hibo-moha/my-git-and-github-practice
 
 - Telecom Customer Churn Prediction
-  https://github.com/Hibo-moha/telecom-customer-churn
+  https://github.com/Hibo-moha/telecom-customer
 
 ## Skills
 
