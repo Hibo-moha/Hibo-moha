@@ -26,3 +26,5 @@ Computer Science graduate passionate about Full Stack Development, Machine Learn
 
 GitHub:
 https://github.com/Hibo-moha
+Linkedin:
+www.linkedin.com/in/hibomahamed
